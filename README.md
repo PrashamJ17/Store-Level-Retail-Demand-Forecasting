@@ -1,5 +1,7 @@
 # Store-Level Retail Demand Forecasting
 
+[![Live Demo](https://img.shields.io/badge/demo-run_locally-orange)](#live-demo-app)
+
 Predictive Analysis course project (Manipal University Jaipur) — a store-level
 demand forecasting pipeline built on the [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales)
 dataset. See `Prasham_Jain_2427030155_Project_Synopsis.docx` for the original
